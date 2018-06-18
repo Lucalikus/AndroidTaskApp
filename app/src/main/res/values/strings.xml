@@ -6,4 +6,19 @@
     <string name="TaskDone">Task Done</string>
     <string name="New">New</string>
     <string name="ShowAll">Show All</string>
+
+    <string name="Cancel">Cancel</string>
+    <string name="Save">Save</string>
+    <string name="Done">Done</string>
+    <string name="LongDescription">Long description</string>
+    <string name="ShortDescription">Short description</string>
+    <string name="Percentage" />
+    <string name="intPercentage">0%</string>
+
+
+    <string name="StringAll">String/All</string>
+    <string name="StringToDo">String/ToDo</string>
+    <string name="StringDoing">String/Doing</string>
+    <string name="StringDone">String/Done</string>
+
 </resources>
